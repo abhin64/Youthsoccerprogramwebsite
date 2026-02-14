@@ -1,0 +1,8 @@
+{
+  "name": "aaa-sports-camp-functions",
+  "version": "1.0.0",
+  "description": "Serverless functions for AAA Sports Camp payment processing",
+  "dependencies": {
+    "stripe": "^14.14.0"
+  }
+}
