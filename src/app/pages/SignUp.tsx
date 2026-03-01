@@ -225,9 +225,10 @@ export function SignUp() {
             <div className="border border-gray-300 rounded-lg p-6 bg-blue-50">
               <h4 className="font-poppins font-semibold text-gray-900 mb-3">Camp Schedule</h4>
               <div className="space-y-2 text-gray-700 font-inter">
-                <p><strong>Days:</strong> Tuesdays and Thursdays</p>
+                <p><strong>Days:</strong> Wednesdays and Saturdays</p>
                 <p><strong>Time:</strong> 10:00 AM – 12:00 PM</p>
-                <p><strong>Duration:</strong> 6 weeks in summer</p>
+                <p><strong>Duration:</strong> Early July through mid-August</p>
+                <p><strong>Dates (Info):</strong> Wed — July 1, 8, 15, 22, 29; Aug 5, 12 | Sat — July 4, 11, 18, 25; Aug 1, 8, 15</p>
               </div>
             </div>
 
