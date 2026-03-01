@@ -182,7 +182,8 @@ Submitted on: ${new Date().toLocaleString()}
                 <div className="font-inter text-gray-600 space-y-1">
                   <p><strong>Summer Soccer Program (Ages 7–10)</strong></p>
                   <p><strong>Location:</strong> Eastlake High School, Sammamish, WA</p>
-                  <p><strong>Schedule:</strong> Tuesdays & Thursdays, 10:00 AM – 12:00 PM</p>
+                  <p><strong>Schedule:</strong> Wednesdays & Saturdays, 10:00 AM – 12:00 PM</p>
+                  <p><strong>Dates (Info):</strong> Wed — July 1, 8, 15, 22, 29; Aug 5, 12 | Sat — July 4, 11, 18, 25; Aug 1, 8, 15</p>
                   <p><strong>Coaches:</strong> Local high‑school athletes</p>
                 </div>
               </div>
@@ -391,7 +392,7 @@ Submitted on: ${new Date().toLocaleString()}
                 <div className="font-inter text-gray-600 space-y-1">
                   <p><strong>Summer Soccer Program (Ages 7–10)</strong></p>
                   <p>Eastlake High School – Sammamish, WA</p>
-                  <p>Tuesdays & Thursdays – 10:00 AM – 12:00 PM</p>
+                  <p>Wednesdays & Saturdays – 10:00 AM – 12:00 PM</p>
                 </div>
               </div>
             </div>

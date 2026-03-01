@@ -55,7 +55,7 @@ export function Pricing() {
         email: registrationData.parentEmail,
         phone: registrationData.parentPhone,
         parent_name: registrationData.parentName,
-        program: '6-Week Summer Camp',
+        program: 'Summer Camp',
         emergency_contact: registrationData.emergencyContact,
         emergency_phone: registrationData.emergencyPhone,
         waiver_completed: registrationData.waiverCompleted,
@@ -89,7 +89,7 @@ export function Pricing() {
             email: registrationData.parentEmail,
             phone: registrationData.parentPhone,
             parentName: registrationData.parentName,
-            program: '6-Week Summer Camp',
+            program: 'Summer Camp',
             emergencyContact: registrationData.emergencyContact,
             emergencyPhone: registrationData.emergencyPhone,
           }),
@@ -188,13 +188,13 @@ export function Pricing() {
               <div className="bg-white rounded-xl p-8 shadow-md">
                 <div className="text-center mb-6">
                   <h2 className="font-poppins text-2xl font-bold text-gray-900 mb-2">
-                    6-Week Summer Camp
+                    Summer Camp
                   </h2>
                   <div className="flex items-baseline justify-center gap-2">
                     <span className="font-poppins text-5xl font-bold text-[#E53935]">$249</span>
                   </div>
                   <p className="font-inter text-sm text-gray-600 mt-2">
-                    Total for 12 sessions
+                    Total for 14 sessions
                   </p>
                 </div>
 
@@ -202,8 +202,8 @@ export function Pricing() {
                   <div className="flex items-start gap-3">
                     <Calendar className="text-[#1E88E5] flex-shrink-0 mt-1" size={20} />
                     <div>
-                      <p className="font-inter text-gray-900 font-medium">Tuesdays and Thursdays</p>
-                      <p className="font-inter text-sm text-gray-600">6 weeks of instruction</p>
+                      <p className="font-inter text-gray-900 font-medium">Wednesdays and Saturdays</p>
+                      <p className="font-inter text-sm text-gray-600">Early July through mid-August</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
@@ -211,6 +211,13 @@ export function Pricing() {
                     <div>
                       <p className="font-inter text-gray-900 font-medium">10:00 AM – 12:00 PM</p>
                       <p className="font-inter text-sm text-gray-600">2 hours per session</p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-3">
+                    <Calendar className="text-[#1E88E5] flex-shrink-0 mt-1" size={20} />
+                    <div>
+                      <p className="font-inter text-gray-900 font-medium">Session dates (informational)</p>
+                      <p className="font-inter text-sm text-gray-600">Wed — July 1, 8, 15, 22, 29; Aug 5, 12 | Sat — July 4, 11, 18, 25; Aug 1, 8, 15</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">

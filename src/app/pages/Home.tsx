@@ -129,8 +129,8 @@ export function Home() {
                 </div>
                 <div>
                   <h4 className="font-poppins font-semibold text-gray-900 mb-2">Schedule</h4>
-                  <p className="font-inter text-gray-700">Tuesdays and Thursdays</p>
-                  <p className="font-inter text-gray-700">6 weeks in summer</p>
+                  <p className="font-inter text-gray-700">Wednesdays and Saturdays</p>
+                  <p className="font-inter text-gray-700">Early July through mid-August</p>
                 </div>
               </div>
 
@@ -157,6 +157,17 @@ export function Home() {
                   </p>
                 </div>
               </div>
+            </div>
+
+            <div className="mt-8 bg-blue-50 rounded-xl p-6 border border-blue-100">
+              <h4 className="font-poppins font-semibold text-gray-900 mb-3">Informational Session Dates</h4>
+              <p className="font-inter text-gray-700 text-sm leading-relaxed">
+                Wednesdays: July 1, July 8, July 15, July 22, July 29, August 5, August 12
+              </p>
+              <p className="font-inter text-gray-700 text-sm leading-relaxed mt-2">
+                Saturdays: July 4, July 11, July 18, July 25, August 1, August 8, August 15
+              </p>
+              <p className="font-inter text-gray-600 text-sm mt-2">All sessions run from 10:00 AM – 12:00 PM.</p>
             </div>
 
             <div className="mt-10 text-center">
